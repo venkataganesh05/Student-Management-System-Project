@@ -1,0 +1,447 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61E7ED23-A4CD-4E39-BD1D-3F8E9BA74269}|StudentManagementSystem.API.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E7ED23-A4CD-4E39-BD1D-3F8E9BA74269}|StudentManagementSystem.API.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E7ED23-A4CD-4E39-BD1D-3F8E9BA74269}|StudentManagementSystem.API.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E7ED23-A4CD-4E39-BD1D-3F8E9BA74269}|StudentManagementSystem.API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0DCB6E-8262-4076-9260-926533F382C3}|..\\StudentManagementSystem.Core\\StudentManagementSystem.Core.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.core\\interfaces\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0DCB6E-8262-4076-9260-926533F382C3}|..\\StudentManagementSystem.Core\\StudentManagementSystem.Core.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.core\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0DCB6E-8262-4076-9260-926533F382C3}|..\\StudentManagementSystem.Core\\StudentManagementSystem.Core.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.core\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E7ED23-A4CD-4E39-BD1D-3F8E9BA74269}|StudentManagementSystem.API.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E7ED23-A4CD-4E39-BD1D-3F8E9BA74269}|StudentManagementSystem.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A61A7A-B660-473F-9D14-C36F2A5A176D}|..\\StudentManagementSystem.Infrastructure\\StudentManagementSystem.Infrastructure.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0DCB6E-8262-4076-9260-926533F382C3}|..\\StudentManagementSystem.Core\\StudentManagementSystem.Core.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.core\\interfaces\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0DCB6E-8262-4076-9260-926533F382C3}|..\\StudentManagementSystem.Core\\StudentManagementSystem.Core.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.core\\dtos\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0DCB6E-8262-4076-9260-926533F382C3}|..\\StudentManagementSystem.Core\\StudentManagementSystem.Core.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.core\\interfaces\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0DCB6E-8262-4076-9260-926533F382C3}|..\\StudentManagementSystem.Core\\StudentManagementSystem.Core.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.core\\dtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0DCB6E-8262-4076-9260-926533F382C3}|..\\StudentManagementSystem.Core\\StudentManagementSystem.Core.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.core\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0DCB6E-8262-4076-9260-926533F382C3}|..\\StudentManagementSystem.Core\\StudentManagementSystem.Core.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.core\\interfaces\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A61A7A-B660-473F-9D14-C36F2A5A176D}|..\\StudentManagementSystem.Infrastructure\\StudentManagementSystem.Infrastructure.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.infrastructure\\identity\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A61A7A-B660-473F-9D14-C36F2A5A176D}|..\\StudentManagementSystem.Infrastructure\\StudentManagementSystem.Infrastructure.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E7ED23-A4CD-4E39-BD1D-3F8E9BA74269}|StudentManagementSystem.API.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61E7ED23-A4CD-4E39-BD1D-3F8E9BA74269}|StudentManagementSystem.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0DCB6E-8262-4076-9260-926533F382C3}|..\\StudentManagementSystem.Core\\StudentManagementSystem.Core.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.core\\interfaces\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0DCB6E-8262-4076-9260-926533F382C3}|..\\StudentManagementSystem.Core\\StudentManagementSystem.Core.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.core\\interfaces\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0DCB6E-8262-4076-9260-926533F382C3}|..\\StudentManagementSystem.Core\\StudentManagementSystem.Core.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A61A7A-B660-473F-9D14-C36F2A5A176D}|..\\StudentManagementSystem.Infrastructure\\StudentManagementSystem.Infrastructure.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.infrastructure\\studentmanagementsystem.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0DCB6E-8262-4076-9260-926533F382C3}|..\\StudentManagementSystem.Core\\StudentManagementSystem.Core.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.core\\interfaces\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A61A7A-B660-473F-9D14-C36F2A5A176D}|..\\StudentManagementSystem.Infrastructure\\StudentManagementSystem.Infrastructure.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E7ED23-A4CD-4E39-BD1D-3F8E9BA74269}|StudentManagementSystem.API.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61E7ED23-A4CD-4E39-BD1D-3F8E9BA74269}|StudentManagementSystem.API.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0DCB6E-8262-4076-9260-926533F382C3}|..\\StudentManagementSystem.Core\\StudentManagementSystem.Core.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.core\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E7ED23-A4CD-4E39-BD1D-3F8E9BA74269}|StudentManagementSystem.API.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61E7ED23-A4CD-4E39-BD1D-3F8E9BA74269}|StudentManagementSystem.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E7ED23-A4CD-4E39-BD1D-3F8E9BA74269}|StudentManagementSystem.API.csproj|c:\\users\\ganes\\source\\repos\\studentmanagementsystem.api\\studentmanagementsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61E7ED23-A4CD-4E39-BD1D-3F8E9BA74269}|StudentManagementSystem.API.csproj|solutionrelative:studentmanagementsystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\Interfaces\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystem.Core\\Interfaces\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\Interfaces\\Services\\StudentService.cs",
+              "RelativeToolTip": "..\\StudentManagementSystem.Core\\Interfaces\\Services\\StudentService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T05:40:00.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystem.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\StudentManagementSystem.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T04:10:00.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystem.Core\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\Interfaces\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "..\\StudentManagementSystem.Core\\Interfaces\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T04:08:26.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Infrastructure\\Identity\\JwtService.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystem.Infrastructure\\Identity\\JwtService.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Infrastructure\\Identity\\JwtService.cs",
+              "RelativeToolTip": "..\\StudentManagementSystem.Infrastructure\\Identity\\JwtService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAEwCgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T03:38:52.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentManagementSystem.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Infrastructure\\StudentManagementSystem.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystem.Infrastructure\\StudentManagementSystem.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Infrastructure\\StudentManagementSystem.Infrastructure.csproj",
+              "RelativeToolTip": "..\\StudentManagementSystem.Infrastructure\\StudentManagementSystem.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-06T03:37:15.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\Interfaces\\Services\\IJwtService.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystem.Core\\Interfaces\\Services\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\Interfaces\\Services\\IJwtService.cs",
+              "RelativeToolTip": "..\\StudentManagementSystem.Core\\Interfaces\\Services\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T03:31:37.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\Interfaces\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystem.Core\\Interfaces\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\Interfaces\\Services\\AuthService.cs",
+              "RelativeToolTip": "..\\StudentManagementSystem.Core\\Interfaces\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T03:19:44.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystem.Core\\Interfaces\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\Interfaces\\Services\\IAuthService.cs",
+              "RelativeToolTip": "..\\StudentManagementSystem.Core\\Interfaces\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T03:18:39.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystem.Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\Entities\\User.cs",
+              "RelativeToolTip": "..\\StudentManagementSystem.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T03:17:02.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\DTOs\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystem.Core\\DTOs\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\DTOs\\LoginRequestDto.cs",
+              "RelativeToolTip": "..\\StudentManagementSystem.Core\\DTOs\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T02:55:43.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystem.Core\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "..\\StudentManagementSystem.Core\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T02:54:49.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\DTOs\\CreateStudentDto.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystem.Core\\DTOs\\CreateStudentDto.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\DTOs\\CreateStudentDto.cs",
+              "RelativeToolTip": "..\\StudentManagementSystem.Core\\DTOs\\CreateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T02:26:58.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\DTOs\\UpdateStudentDto.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystem.Core\\DTOs\\UpdateStudentDto.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\DTOs\\UpdateStudentDto.cs",
+              "RelativeToolTip": "..\\StudentManagementSystem.Core\\DTOs\\UpdateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T02:26:46.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\DTOs\\StudentDto.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystem.Core\\DTOs\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\DTOs\\StudentDto.cs",
+              "RelativeToolTip": "..\\StudentManagementSystem.Core\\DTOs\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T02:26:34.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystem.Core\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\Entities\\Student.cs",
+              "RelativeToolTip": "..\\StudentManagementSystem.Core\\Entities\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T14:30:22.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\Interfaces\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystem.Core\\Interfaces\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\Interfaces\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "..\\StudentManagementSystem.Core\\Interfaces\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T14:28:25.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\Interfaces\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystem.Core\\Interfaces\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Core\\Interfaces\\Services\\IStudentService.cs",
+              "RelativeToolTip": "..\\StudentManagementSystem.Core\\Interfaces\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T14:28:21.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.API\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-05T14:26:51.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-05T14:26:47.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-05T14:26:40.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystem.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\StudentManagementSystem.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T14:13:02.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentManagementSystem.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "..\\StudentManagementSystem.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T14:08:58.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudentManagementSystem.API.csproj",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.API\\StudentManagementSystem.API.csproj",
+              "RelativeDocumentMoniker": "StudentManagementSystem.API.csproj",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.API\\StudentManagementSystem.API.csproj",
+              "RelativeToolTip": "StudentManagementSystem.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-05T13:46:59.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T13:33:34.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T12:56:43.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\ganes\\source\\repos\\StudentManagementSystem.API\\Controllers\\StudentController.cs*",
+              "RelativeToolTip": "Controllers\\StudentController.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T12:56:21.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
